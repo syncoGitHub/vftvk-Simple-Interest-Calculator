@@ -6,6 +6,7 @@ body {
 
 h1{
     color:grey;
+    font-family:verdana
 }
 
 .maindiv {
@@ -14,5 +15,7 @@ h1{
     width:300px;
     padding:20px;
     border-radius:25px;
-    align-self: center;
+    width: 60%;
+    height: 60%;
+    margin: auto;
 }
